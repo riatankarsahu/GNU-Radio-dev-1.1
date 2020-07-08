@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.11">
+  <compound refid="classgr_1_1AIUT_1_1square__ff" kind="class"><name>gr::AIUT::square_ff</name>
+    <member refid="classgr_1_1AIUT_1_1square__ff_1a5df8a15d8092888dba319de8a37de5bb" kind="typedef"><name>sptr</name></member>
+    <member refid="classgr_1_1AIUT_1_1square__ff_1ab498fd98fc146a7fee61569f79ceadba" kind="function"><name>make</name></member>
+  </compound>
+  <compound refid="namespacegr" kind="namespace"><name>gr</name>
+  </compound>
+  <compound refid="namespacegr_1_1AIUT" kind="namespace"><name>gr::AIUT</name>
+  </compound>
+  <compound refid="namespacestd" kind="namespace"><name>std</name>
+  </compound>
+  <compound refid="api_8h" kind="file"><name>api.h</name>
+    <member refid="api_8h_1a3fb5ea3a9adfe6a8e4edd9834259c70e" kind="define"><name>AIUT_API</name></member>
+  </compound>
+  <compound refid="square__ff_8h" kind="file"><name>square_ff.h</name>
+  </compound>
+  <compound refid="dir_ad5e2bf1fd75284b1f1e76a880b656c3" kind="dir"><name>/home/ritankar/gr-AIUT/include/AIUT</name>
+  </compound>
+  <compound refid="dir_d44c64559bbebec7f509842c48db8b23" kind="dir"><name>/home/ritankar/gr-AIUT/include</name>
+  </compound>
+</doxygenindex>
